@@ -1,3 +1,7 @@
 Team members: A-diamondtermite B-USERNAME
 Favorite programming language: TBD
+<<<<<<< HEAD
 Team motto: The GOATS
+=======
+Team motto: I like beans
+>>>>>>> upstream/main
